@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=ThomasW2005&theme=dracula&count_private=true&show_icons=true&border_color=FF6E96)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=ThomasW2005&theme=dracula&count_private=true&show_icons=true&border_color=FF6E96)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=ThomasW2005&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **ThomasW2005/ThomasW2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
