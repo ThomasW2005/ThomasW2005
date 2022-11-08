@@ -1,7 +1,5 @@
-### Hi there 👋
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=ThomasW2005&theme=dracula&count_private=true&show_icons=true&border_color=FF6E96)  
-
+### Hi there 👋  
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%203.svg)](https://www.digitalocean.com/?refcode=ab5f607393e4&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 <!--
 **ThomasW2005/ThomasW2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
