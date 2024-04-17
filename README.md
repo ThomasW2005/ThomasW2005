@@ -1,4 +1,4 @@
-### Hi there 👋  
+### Hey 👋  
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%203.svg)](https://www.digitalocean.com/?refcode=ab5f607393e4&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 <!--
 **ThomasW2005/ThomasW2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
